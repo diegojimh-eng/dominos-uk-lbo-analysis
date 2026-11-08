@@ -1,4 +1,15 @@
-# Verified Source Register / Company Boundary
+# Domino's Pizza Group | Leveraged Buyout Analysis
+Independent Private Equity Investment Case Study · November 2026
+Could a Private Equity fund take Domino's Pizza Group private and generate attractive returns?
+
+Base-case findings.
+Metric	Result.
+Entry Enterprise Value:	£1,445.9M
+Sponsor IRR:	7.5%
+Sponsor MOIC:	1.44x
+
+Investment recommendation: Do not proceed at assumed price.
+This project evaluates a hypothetical acquisition of Domino's Pizza Group plc (LSE: DOM) through a five-year leveraged buyout model, incorporating transaction financing, operating forecasts, debt repayment, IRR/MOIC analysis and investment sensitivities.
 
 **Target:** Domino’s Pizza **Group plc**, London Stock Exchange: DOM (UK master franchisee), not Domino’s Pizza, Inc. Nasdaq: DPZ (US franchisor).
 
