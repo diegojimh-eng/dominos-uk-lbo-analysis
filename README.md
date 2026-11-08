@@ -1,28 +1,73 @@
 # Domino's Pizza Group | Leveraged Buyout Analysis
-Independent Private Equity Investment Case Study · November 2026
-Could a Private Equity fund take Domino's Pizza Group private and generate attractive returns?
 
-Base-case findings.
-Metric	Result.
-Entry Enterprise Value:	£1,445.9M
-Sponsor IRR:	7.5%
-Sponsor MOIC:	1.44x
+**Independent Private Equity Investment Case Study | November 2026**
 
-Investment recommendation: Do not proceed at assumed price.
-This project evaluates a hypothetical acquisition of Domino's Pizza Group plc (LSE: DOM) through a five-year leveraged buyout model, incorporating transaction financing, operating forecasts, debt repayment, IRR/MOIC analysis and investment sensitivities.
+## Could a Private Equity Fund Take Domino's Pizza Group Private?
 
-**Target:** Domino’s Pizza **Group plc**, London Stock Exchange: DOM (UK master franchisee), not Domino’s Pizza, Inc. Nasdaq: DPZ (US franchisor).
+This project evaluates a hypothetical public-to-private acquisition of **Domino's Pizza Group plc (LSE: DOM)** through a five-year Leveraged Buyout (LBO) model.
 
-**UK Company Annual Report FY2025 (audited annual financials)** — https://investors.dominos.co.uk/system/files/uploads/financialdocs/2025-annual-report.pdf
+The analysis incorporates historical financial performance, acquisition valuation, transaction financing, operating forecasts, debt repayment, investment returns and sensitivity analysis.
 
-**UK Company Half-Year Results 2026 (published interim results; comparative restatement disclosures)** — https://investors.dominos.co.uk/system/files/press/h1-26-full-rns.pdf
+## Key Investment Findings
 
-**UK Company Q3 2026 trading statement (qualitative / reported quarterly updates; not an audited H1 closing balance)** — https://investors.dominos.co.uk/system/files/press/dpg-q3-2026-trading-update.pdf
+| Metric | Base Case |
+|---|---:|
+| Entry Enterprise Value | £1,445.9M |
+| Sponsor Equity Investment | £1,083.5M |
+| Exit EBITDA (2031) | £176.5M |
+| Gross Sponsor IRR | 7.5% |
+| Gross Sponsor MOIC | 1.44x |
+| Target IRR | 20.0% |
+| Investment Recommendation | Do not proceed at the assumed price |
 
-**London Stock Exchange DOM company page** — https://www.londonstockexchange.com/stock/DOM/dominos-pizza-group-plc/company-page
+*Results are based on a hypothetical transaction and illustrative financing and operating assumptions, not an actual acquisition proposal.*
 
-**Reference quote for valuation:** 231p close 6 Nov 2026. **Issued share count:** 384,868,623 at 31 Oct 2026, as reported 2 Nov 2026. These are *as-of* observations, not timeless facts. Confirm directly on LSE before using for any later date.
+## Investment Thesis
 
-Additional raw source details, 2023–2025 financial-page references, and filing-specific adjustments are documented in the Excel `Sources` worksheet. No privately sourced or unverifiable investment-bank information is used. Filings and web publications may be renamed or removed by their publishers; archived source copies should be independently retained if you need permanence.
+Domino's Pizza Group offers characteristics relevant to a potential leveraged buyout, including an established franchise network, recurring revenue streams and cash-flow generation.
 
-**The files supplied alongside the request (US DPZ 10-K, US investor deck, US annual report)** describe a separate company. They must not be cited as evidence of UK DOM’s revenue, EBITDA, debt, cash or share price.
+However, the analysis suggests that the assumed acquisition valuation does not generate sufficient equity returns under the base-case operating and financing assumptions.
+
+**Key conclusion:** A fundamentally attractive business is not necessarily an attractive Private Equity investment at any purchase price.
+
+## Project Deliverables
+
+- [Excel LBO Financial Model](Dominos_LBO_Financial_Model.xlsx) — Integrated forecasts, transaction financing, debt repayment, IRR, MOIC and sensitivities.
+- [Investment Committee Memorandum](Dominos_Investment_Committee_Memo.pdf) — Investment thesis, valuation, financial analysis, key risks and recommendation.
+- [Investment Presentation](Dominos_LBO_Presentation.pptx) — Presentation of the transaction and financial conclusions.
+- [LinkedIn Executive Summary](Dominos_LinkedIn_Carousel.pdf) — Visual overview of the investment case.
+
+## Financial Modelling Methodology
+
+The Excel model includes:
+
+1. Historical financial statement analysis
+2. Entry valuation and acquisition premium
+3. Sources & Uses of funds
+4. Five-year operating projections
+5. Debt and interest schedules
+6. Exit valuation and equity returns
+7. Bear, Base and Bull scenarios
+8. IRR and MOIC sensitivity analyses
+9. Financial model checks
+
+## Sources & Data
+
+**Target:** Domino's Pizza Group plc, listed on the London Stock Exchange under DOM. This is distinct from Domino's Pizza, Inc. (Nasdaq: DPZ).
+
+Primary financial sources:
+
+- [FY2025 Annual Report](https://investors.dominos.co.uk/system/files/uploads/financialdocs/2025-annual-report.pdf)
+- [H1 2026 Financial Results](https://investors.dominos.co.uk/system/files/press/h1-26-full-rns.pdf)
+- [Q3 2026 Trading Update](https://investors.dominos.co.uk/system/files/press/dpg-q3-2026-trading-update.pdf)
+- [London Stock Exchange — DOM](https://www.londonstockexchange.com/stock/DOM/dominos-pizza-group-plc/company-page)
+
+**Market reference:** 231p share price at the close of 6 November 2026, as used in the model.
+
+For detailed references and modelling limitations, see the Excel `Sources` worksheet and [QA & Limitations](QA_AND_LIMITATIONS.md).
+
+## Disclaimer
+
+This project is an independent educational financial modelling exercise based on publicly available information. It does not represent an actual acquisition, an investment recommendation or advice from any financial institution.
+
+All transaction financing terms, forecasts and exit assumptions are illustrative. The model has not been independently audited.
