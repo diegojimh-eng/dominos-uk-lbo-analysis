@@ -34,7 +34,7 @@ However, the analysis suggests that the assumed acquisition valuation does not g
 
 - [Excel LBO Financial Model](Dominos_LBO_Financial_Model.xlsx) — Integrated forecasts, transaction financing, debt repayment, IRR, MOIC and sensitivities.
 - [Investment Committee Memorandum](Dominos_Investment_Committee_Memo.pdf) — Investment thesis, valuation, financial analysis, key risks and recommendation.
-- [Investment Presentation](Dominos_LBO_Presentation.pptx) — Presentation of the transaction and financial conclusions.
+- [Investment Presentation (PDF)](Dominos_LBO_Presentation.pdf) — Presentation of the transaction and financial conclusions.
 - [LinkedIn Executive Summary](Dominos_LinkedIn_Carousel.pdf) — Visual overview of the investment case.
 
 ## Financial Modelling Methodology
